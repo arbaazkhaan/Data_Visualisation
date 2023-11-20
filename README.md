@@ -3,7 +3,7 @@
 ## Task 1: Call Centre Trends
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
-![email_screenshot](Task 1 - Call Centre Trends/problem-statements.PNG)
+![email_screenshot](https://github.com/arbaazkhaan/Data_Visualisation/blob/ed902a52800906313760965f891ab4c2152369fb/Task%201%20-%20Call%20Centre%20Trends/problem-statements.PNG)
 
 *Possible KPIs include (to get you started, but not limited to):*
 - Overall customer satisfaction
@@ -50,3 +50,8 @@ Human Resources at our telecom client is highly into diversity and inclusion. Th
 ___
 ## Reference
  - [Forage - PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Power-BI-Virtual-Case-Experience?ref=YE8xFPAvMcvzKecnK)
+
+ - DataSet and my Visualization file :
+     - [task-1 files](https://github.com/arbaazkhaan/Data_Visualisation/tree/ed902a52800906313760965f891ab4c2152369fb/Task%201%20-%20Call%20Centre%20Trends)
+     - [task-2 files](https://github.com/arbaazkhaan/Data_Visualisation/tree/ed902a52800906313760965f891ab4c2152369fb/Task-2%3A%20Customer%20Retention)
+    - [task-3 files](https://github.com/arbaazkhaan/Data_Visualisation/tree/ed902a52800906313760965f891ab4c2152369fb/Task%203%20-%20Diversity%20and%20Inclusion)
